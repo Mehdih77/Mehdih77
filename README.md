@@ -15,6 +15,8 @@
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![NextJs](https://img.shields.io/badge/NextJs-000000?logo=Next.js&logoColor=white&style=for-the-badge)
 ![Jest](https://img.shields.io/badge/Jest-df162b?logo=Jest&logoColor=white&style=for-the-badge)
+![ReactTestingLibrary](https://img.shields.io/badge/ReactTestingLibrary-000?logo=TestingLibrary&logoColor=red&style=for-the-badge)
+![Cypress](https://img.shields.io/badge/Cypress-000?logo=Cypress&logoColor=00595d&style=for-the-badge)
 
 ![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
